@@ -6,7 +6,6 @@ I'm **Tanupriya Awasthi** a passionate **Data Analyst** with expertise in turnin
 - I specialize in Excel and SQL.
 - I enjoy building dashboards and turning the raw data into meaningful insights.
 
---
 ## 🛠️ Skills
 - **Advanced Excel** - Data manipulation, pivot tables, advanced formulas, and data visualization
 - **SQL** - Complex queries, database management
@@ -17,6 +16,7 @@ I'm **Tanupriya Awasthi** a passionate **Data Analyst** with expertise in turnin
 ## 📞 Contact Details
 
 📧 **Email:** [tanupriyaawasthi.1405@gmail.com](mailto:tanupriyaawasthi.1405@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/tanupriya-awasthi-911369202/
 
 ---
 
