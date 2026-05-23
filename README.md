@@ -1,4 +1,4 @@
-# Hi,there 👋
+# Hi, there 👋
 
 I'm **Tanupriya Awasthi** a passionate **Data Analyst** with expertise in turning raw data into actionable insights. I love working with data to solve real-world problems and help businesses make data-driven decisions.
 
@@ -15,7 +15,7 @@ I'm **Tanupriya Awasthi** a passionate **Data Analyst** with expertise in turnin
 
 ## 📞 Contact Details
 
-📧 **Email:** [tanupriyaawasthi.1405@gmail.com](mailto:tanupriyaawasthi.1405@gmail.com)
+- **Email:** [tanupriyaawasthi.1405@gmail.com](mailto:tanupriyaawasthi.1405@gmail.com)
 - **LinkedIn:** https://www.linkedin.com/in/tanupriya-awasthi-911369202/
 
 ---
