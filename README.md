@@ -1,6 +1,6 @@
-# Hi, I'm Tanvi! 👋
+# Hi, I'm Tanupriya! 👋
 
-## Data Analyst | Data Enthusiast
+## Data Analyst
 
 I'm a passionate **Data Analyst** with expertise in turning raw data into actionable insights. I love working with data to solve real-world problems and help businesses make data-driven decisions.
 
@@ -10,15 +10,14 @@ I'm a passionate **Data Analyst** with expertise in turning raw data into action
 
 ### Core Competencies
 - **Advanced Excel** - Data manipulation, pivot tables, advanced formulas, and data visualization
-- **SQL** - Complex queries, database management, and data extraction
-- **Python** - Data analysis, automation, and scripting
+- **SQL** - Complex queries, database management
+- **Python** - Data analysis and visualization
 - **Power BI** - Dashboard creation, data modeling, and business intelligence
 
 ### Key Strengths
 - Data Analysis & Interpretation
-- Business Intelligence
+- Dashboarding
 - Data Visualization
-- Statistical Analysis
 - Report Generation
 
 ---
