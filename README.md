@@ -1,36 +1,22 @@
-# Hi, I'm Tanupriya! 👋
+# Hi,there 👋
 
-## Data Analyst
+I'm **Tanupriya Awasthi** a passionate **Data Analyst** with expertise in turning raw data into actionable insights. I love working with data to solve real-world problems and help businesses make data-driven decisions.
 
-I'm a passionate **Data Analyst** with expertise in turning raw data into actionable insights. I love working with data to solve real-world problems and help businesses make data-driven decisions.
+## 🎯 About Me
+- I specialize in Excel and SQL.
+- I enjoy building dashboards and turning the raw data into meaningful insights.
 
----
-
+--
 ## 🛠️ Skills
-
-### Core Competencies
 - **Advanced Excel** - Data manipulation, pivot tables, advanced formulas, and data visualization
 - **SQL** - Complex queries, database management
 - **Python** - Data analysis and visualization
 - **Power BI** - Dashboard creation, data modeling, and business intelligence
 
-### Key Strengths
-- Data Analysis & Interpretation
-- Dashboarding
-- Data Visualization
-- Report Generation
-
----
 
 ## 📞 Contact Details
 
 📧 **Email:** [tanupriyaawasthi.1405@gmail.com](mailto:tanupriyaawasthi.1405@gmail.com)
-
----
-
-## 🎯 About Me
-
-I'm an enthusiast data analyst dedicated to leveraging data analytics tools and techniques to drive meaningful insights. With a strong foundation in Excel, SQL, Python, and Power BI, I'm committed to continuous learning and delivering impactful data solutions.
 
 ---
 
